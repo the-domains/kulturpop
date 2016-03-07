@@ -2,6 +2,7 @@ name: kulturpop
 favicon: null
 layout_spectrum: 0.013579320861026645
 typography_spectrum: 0.11400083010084927
+title: Kulturpop
 cta:
   domain: null
   bucket: null
