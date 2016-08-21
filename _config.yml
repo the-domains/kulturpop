@@ -14,24 +14,24 @@ collections:
       number: 10
 color:
   saturation: 0.7685285
-  brandStrength: 0.8480129
+  brandStrength: 0.9897959
   lightness: 0.4871106
   brandColors:
-    - '#090502'
-    - '#EE0813'
-    - '#F9FAF4'
-    - '#423C26'
-    - '#869F8A'
+    - '#FCCC00'
+    - '#F99300'
+    - '#EF5108'
+    - '#E0020D'
+    - '#FEF9B8'
   rhythmicContrast: 0.4291085
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: kulturpop
 opengraph:
   image: null
